@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529024366387",
+    "project_id": "hellotourandroidapp",
+    "storage_bucket": "hellotourandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529024366387:android:d727bb19731758bb547046",
+        "android_client_info": {
+          "package_name": "com.example.newtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529024366387-173d7bme8rcarikebmqinq2qlghng51t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_AihQ25oMQSv6Dl7jtAn10_4msVaSlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529024366387-173d7bme8rcarikebmqinq2qlghng51t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
